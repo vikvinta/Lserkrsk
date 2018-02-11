@@ -271,6 +271,11 @@ a.light-text:focus {
   max-height: 40px;
   margin: 7px 0 0 10px;
 }
+.nav{
+  margin: 0 auto;
+  float: none;
+  width: 60%;
+}
 .nav > li > a:hover,
 .nav > li > a:focus {
   background-color: rgba(244, 245, 247, 0.5);
